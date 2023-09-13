@@ -1,6 +1,6 @@
-baseURL: http://OpenELA.org/
+baseURL: https://niagara-linux.github.io/
 languageCode: en-us
-title: OpenELA
+title: Niagara Linux
 
 module:
   imports:
@@ -17,7 +17,7 @@ markup:
 
 params:
   openGraph: true
-  description: Open Enterprise Linux Association
+  description: Niagara Linux
   navbarlogo:
     image: logos/openELA.svg
     link: /
@@ -28,19 +28,19 @@ params:
     name: "Open Sans"
     sizes: [400,600]
   hero:
-    title: Open Enterprise Linux Association
-    subtitle: OpenELA is a trade association of open source Enterprise Linux distribution developers
+    title: Niagara Linux
+    subtitle: Linux and De-Gooled phone Services
     buttontext: Read The Announcement
     buttonlink: /news/hello_world
     # Hero image (from static/images/___)
     image: illustrations/hydrangea-hero.svg
     clientlogos:
-    - logo: ciq
-      url: https://ciq.com
-    - logo: oracle
-      url: https://www.oracle.com
-    - logo: suse
-      url: https://www.suse.com
+    - logo: Insight 
+      url: https://seekinsight.ca
+    - logo: KR Davidson Professional Corpration
+      url: https://www.krdavidson.com
+    - logo: Hero Dog Treats
+      url: https://www.herodogtreats.com
   navbar:
   - title: About
     url: /about
@@ -60,13 +60,13 @@ params:
     logo: openELA.svg
     socialmediatitle: Follow Us
     socialmedia:
-    - link: https://github.com/openela
+    - link: https://github.com/niagaralinux
       icon: github
       target: _blank
-    - link: https://twitter.com/@openelaorg
+    - link: https://twitter.com/@niagaralinux
       icon: twitter
       target: _blank
-    - link: https://www.linkedin.com/company/openela
+    - link: https://www.linkedin.com/company/niagaralinux
       icon: linkedin
       target: _blank
     quicklinks:
